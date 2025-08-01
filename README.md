@@ -6,7 +6,6 @@
     [Kotlin](https://kotlinlang.org/),
     [Haskell](https://www.haskell.org/),
     [Rust](https://www.rust-lang.org/),
-    [Go](https://go.dev/),
     [TypeScript](https://www.typescriptlang.org/).
 - 📚 Reading [Crafting Interpreters](https://craftinginterpreters.com/)
 - ❤️  Loves [programming languages](https://steshaw.org/plt/)
