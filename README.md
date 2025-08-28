@@ -10,7 +10,7 @@
 - 📚 Reading [Crafting Interpreters](https://craftinginterpreters.com/) and [The Rust Programming Language](https://doc.rust-lang.org/book/)
   - ✅ Read [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
 - ❤️ Loves [programming languages](https://steshaw.org/plt/)
-- ⚡ Contributed to [AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)
+- ⚡ Contributed to [AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf), [TinyMCE](https://github.com/tinymce/tinymce), and [Idris 1](https://github.com/idris-lang/Idris-dev)
 - 📫 Reach me by [email](mailto:steven@steshaw.org) or
     [LinkedIn](https://www.linkedin.com/in/steshaw/)
 
