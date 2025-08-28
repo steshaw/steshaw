@@ -8,7 +8,7 @@
     [Rust](https://www.rust-lang.org/),
     [TypeScript](https://www.typescriptlang.org/)
 - 📚 Reading [Crafting Interpreters](https://craftinginterpreters.com/) and [The Rust Programming Language](https://doc.rust-lang.org/book/)
-- ✅ Read [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
+  - ✅ Read [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
 - ❤️ Loves [programming languages](https://steshaw.org/plt/)
 - ⚡ Contributed to [AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)
 - 📫 Reach me by [email](mailto:steven@steshaw.org) or
