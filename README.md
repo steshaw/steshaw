@@ -6,7 +6,7 @@
     [Kotlin](https://kotlinlang.org/),
     [Haskell](https://www.haskell.org/),
     [Rust](https://www.rust-lang.org/),
-    [TypeScript](https://www.typescriptlang.org/)
+    and [TypeScript](https://www.typescriptlang.org/)
 - 📚 Reading [Crafting Interpreters](https://craftinginterpreters.com/) and [The Rust Programming Language](https://doc.rust-lang.org/book/)
   - ✅ Read [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
 - ❤️ Loves [programming languages](https://steshaw.org/plt/)
