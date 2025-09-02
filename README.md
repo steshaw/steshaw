@@ -8,7 +8,7 @@
     [Rust](https://www.rust-lang.org/),
     and [TypeScript](https://www.typescriptlang.org/)
 - 📚 Reading [Crafting Interpreters](https://craftinginterpreters.com/) and [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  - ✅ Read [Linchpin]([https://dataintensive.net/](https://seths.store/linchpin/) (2025)
+  - ✅ Read [Linchpin](https://seths.store/linchpin/) (2025)
   - ✅ Read [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
   - ✅ Read [Turn the Ship Around!](https://davidmarquet.com/books/turn-the-ship-around-book/) (2025)
 - ❤️ Loves [programming languages](https://steshaw.org/plt/)
