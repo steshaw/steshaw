@@ -7,7 +7,7 @@
     [Haskell](https://www.haskell.org/),
     [Rust](https://www.rust-lang.org/),
     and [TypeScript](https://www.typescriptlang.org/)
-- 📚 Reading [Crafting Interpreters](https://craftinginterpreters.com/), [The Rust Programming Language](https://doc.rust-lang.org/book/), and [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- 📚 Reading: [Crafting Interpreters](https://craftinginterpreters.com/), [The Rust Programming Language](https://doc.rust-lang.org/book/), [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)
   - ✅ Read [Your Brain's Not Broken](https://www.goodreads.com/book/show/57071093-your-brain-s-not-broken) (2025)
   - ✅ Read [Linchpin](https://seths.store/linchpin/) (2025)
   - ✅ Read [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
