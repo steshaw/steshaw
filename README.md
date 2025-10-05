@@ -14,7 +14,7 @@
   - ✅ [Designing Data-Intensive Applications](https://dataintensive.net/) (2025)
   - ✅ [Turn the Ship Around!](https://davidmarquet.com/books/turn-the-ship-around-book/) (2025)
 - ❤️ Loves [programming languages](https://steshaw.org/plt/)
-- ⚡ Contributed to [AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf), [Apache Qpid](https://qpid.apache.org/), [TinyMCE](https://github.com/tinymce/tinymce), and [Idris](https://github.com/idris-lang/Idris-dev)
+- ⚡ Contributed to [AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf), [Apache Qpid](https://qpid.apache.org/), [TinyMCE](https://github.com/tinymce/tinymce), and the [Idris](https://github.com/idris-lang/Idris-dev) programming language
 - 📫 Reach me by [email](mailto:steven@steshaw.org) or
     [LinkedIn](https://www.linkedin.com/in/steshaw/)
 
