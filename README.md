@@ -18,8 +18,8 @@
 - 📫 Reach me by [email](mailto:steven@steshaw.org) or
     [LinkedIn](https://www.linkedin.com/in/steshaw/)
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/steshaw)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steshaw/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/steshaw)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/steshaw)](https://twitter.com/steshaw)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/482382/steven-shaw)
 [![SlideShare Badge](https://img.shields.io/badge/-SlideShare-008ED2?style=flat-square&logo=slideshare&logoColor=white)](https://www.slideshare.net/steshaw)
