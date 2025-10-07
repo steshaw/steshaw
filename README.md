@@ -7,13 +7,7 @@
     [Haskell](https://www.haskell.org/),
     [Rust](https://www.rust-lang.org/),
     and [TypeScript](https://www.typescriptlang.org/)
-- 📚 Reading: [Crafting Interpreters](https://craftinginterpreters.com/), [The Rust Programming Language](https://doc.rust-lang.org/book/), [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), [The Leader Who Had No Title](https://www.goodreads.com/book/show/6881578-the-leader-who-had-no-title)
-  - 2025:
-    - [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci) ✅
-    - [Your Brain's Not Broken](https://www.goodreads.com/book/show/57071093-your-brain-s-not-broken) ✅
-    - [Linchpin](https://seths.store/linchpin/) ✅
-    - ✅ [Designing Data-Intensive Applications](https://dataintensive.net/) ✅
-    - ✅ [Turn the Ship Around!](https://davidmarquet.com/books/turn-the-ship-around-book/) ✅
+- 📚 Reading: [Crafting Interpreters](https://craftinginterpreters.com/) 50%, [The Rust Programming Language](https://doc.rust-lang.org/book/) 25%, [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) 10%, [The Leader Who Had No Title](https://www.goodreads.com/book/show/6881578-the-leader-who-had-no-title) 75%, [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci) ✅, [Your Brain's Not Broken](https://www.goodreads.com/book/show/57071093-your-brain-s-not-broken) ✅, [Linchpin](https://seths.store/linchpin/) ✅, [Designing Data-Intensive Applications](https://dataintensive.net/) ✅, [Turn the Ship Around!](https://davidmarquet.com/books/turn-the-ship-around-book/) ✅
 - ❤️ Loves [programming languages](https://steshaw.org/plt/)
 - ⚡ Contributed to [AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf), [Apache Qpid](https://qpid.apache.org/), [TinyMCE](https://github.com/tinymce/tinymce), and the [Idris](https://github.com/idris-lang/Idris-dev) programming language
 - 📫 Reach me by [email](mailto:steven@steshaw.org) or
